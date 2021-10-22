@@ -12,7 +12,7 @@
  <div style="display: inline_block"><br>
  <img align="center" alt="guilhermeggloor-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
  <img align="center" alt="guilhermeggloor-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
- <img align="center" alt="guilhermeggloor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+ <img align="center" alt="guilhermeggloor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
   ##
