@@ -1,7 +1,7 @@
 ### Hi there !  I am Guilherme Garcia Gloor 
 
 - 🔭 Computer Science Student 
-- 🌱 Studying C language, python, java,etc..
+- 🌱 Studying C and JavaScript
 - 💬 Discord: G4rcia#7492
 
 <div align="center">
