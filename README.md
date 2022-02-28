@@ -1,6 +1,6 @@
 ### Hi there !  I am Guilherme Garcia Gloor 
 
-- 🔭 Computer Science Student 
+- 🔭 Computer Science Student 2/4 (UEMS)
 - 🌱 Studying C and JavaScript
 - 💬 Discord: G4rcia#7492
 
@@ -13,6 +13,7 @@
  <img align="center" alt="guilhermeggloor-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="guilhermeggloor-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  <img align="center" alt="guilhermeggloor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ <img align="center" alt="guilhermeggloor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
   
   ##
