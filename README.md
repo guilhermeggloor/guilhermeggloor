@@ -1,7 +1,7 @@
 ### Hi there !  I am Guilherme Garcia Gloor 
 
 - 🔭 Computer Science Student 2/4 (UEMS)
-- 
+ 
 <div align="center">
   <a href="https://github.com/guilhermeggloor">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermeggloor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
