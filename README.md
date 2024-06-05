@@ -8,7 +8,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeggloor&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <div style="display: inline_block"><br>
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <imt align="center" alt="guilhermegglor-c"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="30" />
   <img align="center" alt="guilhermeggloor-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="30" />
 </div>
   
