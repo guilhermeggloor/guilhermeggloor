@@ -1,6 +1,6 @@
 ### Hi there !  I am Guilherme Garcia Gloor 
 
-- 🔭 Computer Science Student 2/4 (UEMS)
+- 🔭 Computer Science Student 3/4 (UEMS)
  
 <div align="center">
   <a href="https://github.com/guilhermeggloor">
